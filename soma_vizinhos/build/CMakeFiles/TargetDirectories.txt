@@ -1,0 +1,4 @@
+/home/daniel/www/ufrn/LP1-2021.1-Lista1/soma_vizinhos/build/CMakeFiles/rebuild_cache.dir
+/home/daniel/www/ufrn/LP1-2021.1-Lista1/soma_vizinhos/build/CMakeFiles/edit_cache.dir
+/home/daniel/www/ufrn/LP1-2021.1-Lista1/soma_vizinhos/build/CMakeFiles/verify.dir
+/home/daniel/www/ufrn/LP1-2021.1-Lista1/soma_vizinhos/build/CMakeFiles/program.dir

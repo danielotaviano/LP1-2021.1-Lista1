@@ -1,0 +1,5 @@
+/home/daniel/www/ufrn/LP1-2021.1-Lista1/minmax/build/CMakeFiles/rebuild_cache.dir
+/home/daniel/www/ufrn/LP1-2021.1-Lista1/minmax/build/CMakeFiles/edit_cache.dir
+/home/daniel/www/ufrn/LP1-2021.1-Lista1/minmax/build/CMakeFiles/run_tests.dir
+/home/daniel/www/ufrn/LP1-2021.1-Lista1/minmax/build/CMakeFiles/all_tests.dir
+/home/daniel/www/ufrn/LP1-2021.1-Lista1/minmax/build/CMakeFiles/func.dir

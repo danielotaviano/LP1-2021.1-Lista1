@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/daniel/www/ufrn/LP1-2021.1-Lista1/fibonacci/src/function.cpp
+function.h
+/home/daniel/www/ufrn/LP1-2021.1-Lista1/fibonacci/src/function.h
+iostream
+-
+
+/home/daniel/www/ufrn/LP1-2021.1-Lista1/fibonacci/src/function.h
+vector
+-
+

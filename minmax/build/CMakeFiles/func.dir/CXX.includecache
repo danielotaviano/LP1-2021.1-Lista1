@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/daniel/www/ufrn/LP1-2021.1-Lista1/minmax/src/function.cpp
+function.h
+/home/daniel/www/ufrn/LP1-2021.1-Lista1/minmax/src/function.h
+stddef.h
+/home/daniel/www/ufrn/LP1-2021.1-Lista1/minmax/src/stddef.h
+iostream
+-
+
+/home/daniel/www/ufrn/LP1-2021.1-Lista1/minmax/src/function.h
+utility
+-
+
